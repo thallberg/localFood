@@ -1,0 +1,18 @@
+[
+    {
+      "title": "Välj din matkasse",
+      "text": "Bläddra bland våra lokalt producerade matkassar och välj den som passar dig bäst.",
+      "icon": "HiCheckCircle"
+    },
+    {
+      "title": "Fyll i dina uppgifter",
+      "text": "Lägg till leveransadress och kontaktinformation för att gå vidare till beställning.",
+      "icon": "HiBell"
+    },
+    {
+      "title": "Slutför din beställning",
+      "text": "Bekräfta ditt köp och invänta leverans av färska råvaror direkt till dörren.",
+      "icon": "HiEmojiHappy"
+    }
+  ]
+  

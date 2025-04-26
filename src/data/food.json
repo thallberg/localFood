@@ -1,0 +1,21 @@
+[
+    {
+      "title": "Grönsakskassen",
+      "description": "Fylld med färska, säsongsbetonade grönsaker från lokala odlare.",
+      "image": "/body/vegetables.webp",
+      "altText": "En korg med färska grönsaker"
+    },
+    {
+      "title": "Gårdsbutikskassen",
+      "description": "En blandning av ostar, marmelader och andra godsaker från småskaliga producenter.",
+      "image": "/body/cheese.webp",
+      "altText": "Lokala produkter som ost och marmelad"
+    },
+    {
+      "title": "Frukostkassen",
+      "description": "Starta dagen med nybakat bröd, lokal honung, ägg och färskpressad juice.",
+      "image": "/body/breakfast.webp",
+      "altText": "Frukostprodukter på ett träbord"
+    }
+  ]
+  
