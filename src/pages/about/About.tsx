@@ -20,12 +20,6 @@ const About = () => {
           <HowStarted/>      
         </section>
 
-        <div>
-
-        </div>
-
-        <div></div>
-
     </div>
   )
 }
